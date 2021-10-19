@@ -1,0 +1,24 @@
+{
+    "user":[{
+        "id": 1,
+        "nombre": "jeremy",
+        "apellido": "velazquez",
+        "telefono": "64654",
+        "correo": "jere@uaq.mx",
+        "admin": "administrador"
+    },{
+        "id": 2,
+        "nombre": "martha",
+        "apellido": "velazquez",
+        "telefono": "5468",
+        "correo": "mar@uaq.mx",
+        "admin": ""
+    },{
+        "id": 3,
+        "nombre": "paola",
+        "apellido": "gonzalez",
+        "telefono": "2920",
+        "correo": "pao@uaq.mx",
+        "admin": "administrador"
+    }]
+}
